@@ -1,0 +1,43 @@
+
+body{
+	background-color:#e9ecef;
+	background-size: cover;
+}
+
+#index-image{
+	max-width:100%;
+	height: auto;
+	max-height: 100%;
+}
+#index-card{
+	background-color:#adb5bd;
+	/* background-color:#ffff; */
+	max-width:100%;
+	height: auto;
+	max-height: 100%;
+}
+
+#ash-color{
+	background-color: #adb5bd;
+}
+
+/* .card,.form-control{
+	background-color: transparent;
+	border-color:rgb(117, 117, 117);
+}
+
+.card-header-tabs .nav-link.active {
+    background-color: transparent;
+    border-color:rgb(117, 117, 117);
+	border-bottom-color:transparent;
+
+} */
+
+.border{
+	--bs-border-opacity: 1;
+	border-color: rgba(var(--bs-success-rgb), var(--)) !important;
+  }
+
+
+/* for google auth btn */
+
